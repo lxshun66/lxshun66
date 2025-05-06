@@ -11,3 +11,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxshun66&show_icons=true&locale=en" alt="lxshun66" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxshun66&" alt="lxshun66" /></p>
+## 🐍 贪吃蛇贡献图
+
+![贪吃蛇贡献图](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxshun66&label=Profile%20views&color=0e75b6&style=flat" alt="lxshun66" /> </p>
 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
+![](https://img.shields.io/badge/热爱-学习-yellow) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxshun66&show_icons=true&locale=en&layout=compact" alt="lxshun66" /></p>
 

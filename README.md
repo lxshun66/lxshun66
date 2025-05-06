@@ -5,7 +5,6 @@
 
 ![](https://img.shields.io/badge/热爱-学习-yellow) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxshun66&show_icons=true&locale=en&layout=compact" alt="lxshun66" /></p>
 
 ### 📫 Reach me:
 

@@ -1,5 +1,6 @@
-# 👋 欢迎来到我的 GitHub 主页！
+https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md
 
+< img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
 
 ## 🧙‍♂️ 修仙等级
 

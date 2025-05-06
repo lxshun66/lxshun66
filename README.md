@@ -13,5 +13,4 @@
 - **E-mail** : 2158516297@qq.com
 
 ## 🐍 贪吃蛇贡献图
-
 ![贪吃蛇贡献图](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)

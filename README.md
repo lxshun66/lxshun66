@@ -7,8 +7,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxshun66&show_icons=true&locale=en&layout=compact" alt="lxshun66" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxshun66&show_icons=true&locale=en" alt="lxshun66" /></p>
+### 📫 Reach me:
 
+- **QQ** : 2158516297
+- **WeChat** : KakaUp-lxs
+- **E-mail** : 2158516297@qq.com
 
 ## 🐍 贪吃蛇贡献图
 

@@ -1,4 +1,4 @@
-https://github.com/maboloshi/maboloshi/blob/main/README.md
+
 ## 🧙‍♂️ 修仙等级
 
 [![你的修仙等级](https://github-immortality.vercel.app/api?username=lxshun66)](https://github.com/IceEnd)

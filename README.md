@@ -1,7 +1,4 @@
-https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md
-
-< img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的主页&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
-
+https://github.com/maboloshi/maboloshi/blob/main/README.md
 ## 🧙‍♂️ 修仙等级
 
 [![你的修仙等级](https://github-immortality.vercel.app/api?username=lxshun66)](https://github.com/IceEnd)
